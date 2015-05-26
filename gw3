@@ -1,0 +1,5 @@
+# 3rd Gateway (Ben) 
+# Temporarily exchanged with key of GW4.
+key "9dacb28444a1857af75b5c5a0d968687f6c8f97ff6fb1777b6bfa3ce029e28d9";
+#key "f9fdc5d5a820a556562b3bb04a46ce1677c161c28c660ecdd35b7d4c17e8e5c2";
+remote ipv4 "gw3.ff3l.net" port 10000;

@@ -1,0 +1,7 @@
+# freifunk-90f652fd355a
+#Email: BenLue <benlue@freifunk-3laendereck.de>
+#wieso alter key??? "e0a2083a34ae40f29154d0f5adb2768eaab6a46fb5921e46fc0542b5b3b0fa1c";
+#wo kommt der key her? "0296ea31fbb397c382b4b87d4bdcfc4ecad097216d9e91e5dc86b8442a557524";
+#der kommt aus dem debuglog von fastd als unknown key. Mir ist das jetzt wurst, ob die Möhre eine Verbindung aufbaut oder nicht,
+#mehr als einmal fixe ich das nicht. ;-)
+key "e0a2083a34ae40f29154d0f5adb2768eaab6a46fb5921e46fc0542b5b3b0fa1c";
